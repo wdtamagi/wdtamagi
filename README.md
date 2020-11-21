@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2>
+  Hello, I'm Willian Dias Tamagi! <img src="https://raw.githubusercontent.com/wdtamagi/wdtamagi/main/hand.gif" width="50">
+</h2>
 
-<!--
-**wdtamagi/wdtamagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: willian-tamagi](https://img.shields.io/badge/willian--tamagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-tamagi-954b1062/)](https://www.linkedin.com/in/willian-tamagi-954b1062/)
+![GitHub followers](https://img.shields.io/github/followers/wdtamagi?label=Follow&style=social)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <em>
+    Senior Frontend Enginner at <a href="https://nash.io/">Nash</a>
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  </em>
+</p>
