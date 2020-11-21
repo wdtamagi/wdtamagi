@@ -3,7 +3,7 @@
 </h2>
 
 [![Linkedin: willian-tamagi](https://img.shields.io/badge/willian--tamagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-tamagi-954b1062/)](https://www.linkedin.com/in/willian-tamagi-954b1062/)
-![GitHub followers](https://img.shields.io/github/followers/wdtamagi?label=Follow&style=social)
+![GitHub](https://github.com/wdtamagi)
 
 <p>
   <em>
