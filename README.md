@@ -8,6 +8,5 @@
 <p>
   <em>
     Senior Frontend Enginner at <a href="https://nash.io/">Nash</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </em>
 </p>
