@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    Senior Frontend Enginner at <a href="https://all-turtles.com/">All Turtles</a>
+    Senior Frontend Engineer at <a href="https://all-turtles.com/">All Turtles</a>
   </em>
 </p>
 
